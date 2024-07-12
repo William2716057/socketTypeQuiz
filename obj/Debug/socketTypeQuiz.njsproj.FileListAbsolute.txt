@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\socketTypeQuiz\socketTypeQuiz\obj\Debug\socketTypeQuiz.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\socketTypeQuiz\socketTypeQuiz\obj\Debug\socketTypeQuiz.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\socketTypeQuiz\socketTypeQuiz\bin\Microsoft.NodejsTools.WebRole.dll
