@@ -7,13 +7,33 @@ document.addEventListener('DOMContentLoaded', function () {
     const images = [
         'sample.jpg', // Replace with your image paths
         'sample2.jpg',
-        'sample3.jpg'
+        'sample3.jpg',
+        'sample4.jpg',
+        'sample5.jpg',
+        'sample6.jpg',
+        'sample7.jpg',
+        'sample8.jpg',
+        'sample9.jpg',
+        'sample10.jpg',
+        'sample11.jpg',
+        'sample12.jpg'
     ];
 
     const answers = [
         'A', // Replace with your correct answers
         'B',
-        'C'
+        'C',
+        'D',
+        'E',
+        'F',
+        'G',
+        'H',
+        'I',
+        'J',
+        'K',
+        'L',
+        'M',
+        'N'
     ];
 
     let currentIndex = 0;
