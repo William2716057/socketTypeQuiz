@@ -15,7 +15,7 @@ body {
 
 .card {
     position: absolute;
-    top: -500px; /* adjust height of image */
+    top: -600px; /* Adjust this value to move the card higher or lower */
     width: 100%;
     transition: transform 1s ease-in-out;
     transform: translateX(100%);
