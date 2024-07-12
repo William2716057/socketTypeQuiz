@@ -15,7 +15,7 @@ body {
 
 .card {
     position: absolute;
-    top: -600px; /* Adjust this value to move the card higher or lower */
+    top: -500px; /* Adjust this value to move the card higher or lower */
     width: 100%;
     transition: transform 1s ease-in-out;
     transform: translateX(100%);
@@ -28,7 +28,7 @@ body {
 
 .question {
     position: absolute;
-    bottom: 0;
+    top: 0;
     width: 100%;
     background-color: rgba(255, 255, 255, 0.9);
     padding: 10px;
