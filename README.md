@@ -13,3 +13,13 @@ To run the Image Card Quiz application locally, follow these steps:
 
 1. Clone the repository:
 `
+https://github.com/William2716057/socketTypeQuiz.git
+`
+2. Open the index.html file in your web browser:
+
+### Usage
+1. Open the application in your web browser.
+2. The first image of a socket type will be displayed.
+3. Type your answer in the input field provided.
+4. If your answer is correct, the next image will be displayed.
+5. Continue until all images have been shown. An alert will notify you when the quiz is complete.
