@@ -60,12 +60,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 question.style.opacity = '1';
             }, 500);
         } else {
-            // Quiz is complete
-            alert('Quiz complete!');
+            // Quiz complete
+            alert('Complete!');
         }
     };
 
-    // Check the answer
+    // Check answer
     answer.addEventListener('input', function () {
         if (answer.value.toLowerCase() === answers[currentIndex].toLowerCase()) {
             // Fade out the question
